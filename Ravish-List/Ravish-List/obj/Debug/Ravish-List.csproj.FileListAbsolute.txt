@@ -1,0 +1,7 @@
+D:\Ravish-Homework\List\Ravish-List\Ravish-List\bin\Debug\Ravish-List.exe.config
+D:\Ravish-Homework\List\Ravish-List\Ravish-List\bin\Debug\Ravish-List.exe
+D:\Ravish-Homework\List\Ravish-List\Ravish-List\bin\Debug\Ravish-List.pdb
+D:\Ravish-Homework\List\Ravish-List\Ravish-List\obj\Debug\Ravish-List.csproj.CoreCompileInputs.cache
+D:\Ravish-Homework\List\Ravish-List\Ravish-List\obj\Debug\Ravish-List.exe
+D:\Ravish-Homework\List\Ravish-List\Ravish-List\obj\Debug\Ravish-List.pdb
+D:\Ravish-Homework\List\Ravish-List\Ravish-List\obj\Debug\Ravish-List.csproj.AssemblyReference.cache
